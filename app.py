@@ -110,3 +110,4 @@ st.pyplot(fig)
 
 # Notes
 st.markdown("**Pilot Notes**: 65% separation assumes central funding for readiness; CARE handles residual fixed + variables.")
+
